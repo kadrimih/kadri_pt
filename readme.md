@@ -6,7 +6,7 @@ Selenium'i saate alla laadida [siit.](https://www.seleniumhq.org/download/)
 Webdriverid on saadaval [samalt lehelt, kus ka Selenium.](https://www.seleniumhq.org/projects/webdriver/)<br/>
 [Seleniumi jooksutamine koos WebDriveritega](https://codeception.com/docs/modules/WebDriver)
 **NB:** Kui muidu on base url=/wd/hub, siis testi jooksutades Windows'i masinas, peaks selleks määrama "/".<br/>
-Testi saab jooksutada [erinevaid käske kasutadese](https://codeception.com/docs/reference/Commands#Run). Et näha ka visuaalselt pilti võib lisada --html käsu lõppu. Ning html fail luuakse vendor/bin/tests/_output/report.html.<br/>
+Testi saab jooksutada [erinevaid käske kasutades](https://codeception.com/docs/reference/Commands#Run). Et näha ka visuaalselt pilti võib lisada --html käsu lõppu. Ning html fail luuakse vendor/bin/tests/_output/report.html.<br/>
 Erinevaid [Environmente lisades](https://codeception.com/docs/07-AdvancedUsage#Environments) saab jooksutada testi erinevated veebilehitsejates lisades käsu lõppu --env chrome --env firefox. <br/>
 
 Näite acceptance.suite.yml - kõige lihtsam ülesehitud Chrome'is testi jooksutada:
