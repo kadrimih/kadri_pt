@@ -1,6 +1,6 @@
 ## Üldine info ja vajaminevad programmid
 Selle testi jooksutamiseks peaks olemas olema Selenium, Codeception ja WebDriver'id.
-Täpse juhendi, kuidas Codeceptionis seadistada leiate[Codeceptioni ametlikult kodulehelt.](https://codeception.com/install)<br/>
+Täpse juhendi, kuidas Codeceptionis seadistada leiate [Codeceptioni ametlikult kodulehelt.](https://codeception.com/install)<br/>
 Selenium'i saate alla laadida [siit.](https://www.seleniumhq.org/download/)
 **NB:** Enne testi jooksutamist peaks Selenium'i käivitama.<br/>
 Webdriverid on saadaval [samalt lehelt, kus ka Selenium.](https://www.seleniumhq.org/projects/webdriver/)<br/>
